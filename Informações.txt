@@ -1,0 +1,8 @@
+Feito por Gabriel Martins - 142356.
+
+Para executar, apenas clicar no arquivo "ExemploEstoqueExec.bat"
+
+Atenção: para o sistema funcionar, é importante saber algumas operações:
+-O valor de vetor, pedido inicialmente, é o tamanho máximo para todo e qualquer vetor dentro do sistema;
+-Data e Hora são Inteiros, ou seja, deverão ter entradas como DDMMAA, e H/M. Exemplo : 22022022 e 1450 (22 de fevereiro de 2022 e 14:50 da tarde).
+-O sistema é bem rudimentar, não tem exceções quanto códigos repetidos, nomes repetidos, etc.
